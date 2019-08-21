@@ -7,5 +7,7 @@ python app.py
 ## Install docker 
 ## Create docker 
 go to root directory and run command 
+###
 docker build --tag=namedocker .
+###
 note: symbol '.' in end of command
