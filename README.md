@@ -1,5 +1,6 @@
 # KIỀU VĂN CHUẨN
-## install requirement 
+## Install requirement 
 python install -r requirements.txt 
-## go to api directory and run command 
+## Go to api directory and run command 
 python app.py 
+### Check port show in console and go to http://localhost:"port" 
